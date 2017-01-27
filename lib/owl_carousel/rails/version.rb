@@ -1,5 +1,5 @@
 module OwlCarousel
   module Rails
-    VERSION = "2.2.0"
+    VERSION = "0.0.1"
   end
 end
